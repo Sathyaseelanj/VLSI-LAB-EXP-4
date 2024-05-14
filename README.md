@@ -18,6 +18,10 @@
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
 
+
+
+
+
 ## LOGIC DIAGRAM
 
 ### SR FLIPFLOP
